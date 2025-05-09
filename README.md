@@ -18,7 +18,6 @@ Access to proprietary content of Polar sensor data is available via Polar BLE SD
 On multiple websites and Blogs a Developer may find useful information on required tools, API’s, development environments and code examples to start development of own Application.
 https://www.bluetooth.com/blog/part-2-the-wheels-on-the-bike-are-bluetooth-smart-bluetooth-smart-bluetooth-smart/
 https://developer.android.com/guide/topics/connectivity/bluetooth-le.html
-https://code.msdn.microsoft.com/windowsapps/Bluetooth-Generic-5a99ef95
 https://developer.apple.com/bluetooth/
  
 Developing Bluetooth application needs information on sensor capabilities. A full list of supported features and Bluetooth Characteristics by Polar sensors are available on Bluetooth SIG webpage.
